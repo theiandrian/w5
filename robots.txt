@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://slot-depo-5k.senchalabs.org/sitemap.xml
